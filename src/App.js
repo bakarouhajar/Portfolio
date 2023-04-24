@@ -10,6 +10,7 @@ import picture from "../src/pictures/My pic.jpg"
 import Footer from "./components/Footer";
 
 function App() {
+  
   return (
     <Router>
       <div class="container-fluid">
